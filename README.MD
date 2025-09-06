@@ -2,26 +2,26 @@
 
 <img
   src="./AI agent development for an real estate agency for appointment setting 1.png"
-  width="600"
-  height="600"
+  width="800"
+  height="800"
   alt="1" />
 
 <img
   src="./AI agent development for an real estate agency for appointment setting 2.png"
-  width="600"
-  height="600"
+  width="800"
+  height="800"
   alt="2" />
 
 <img
   src="./AI agent development for an real estate agency for appointment setting 3.png"
-  width="600"
-  height="600"
+  width="800"
+  height="800"
   alt="3" />
 
 <img
   src="./AI agent development for an real estate agency for appointment setting 4.png"
-  width="600"
-  height="600"
+  width="800"
+  height="800"
   alt="4" />
 
 ## My Role
