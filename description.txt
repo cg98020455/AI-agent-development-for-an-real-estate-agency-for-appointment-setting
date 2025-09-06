@@ -1,0 +1,12 @@
+My role. AI developer, ai chatbot developer, ai integration and Automation, crm automation
+
+Project description.
+
+Seeking a Make.com and Vapi.ai expert to optimize a real estate lead generation system for scale. Must enhance existing scenario for efficiency and volume. Needs: 1) Handle 3-5 concurrent calls for 150–200 daily calls using Make.com + Vapi.ai. 2) Integrate Google Calendar API for smart booking to prevent conflicts. 3) Auto-answer inbound calls, collect details (name, number, address, interest), and send via email/text. Requirements: Proven Make.com/Vapi.ai expertise, Google Calendar API skills, scalable workflow design. Real estate automation experience preferred.
+Skills and deliverables
+
+AI Development
+Automated Workflow
+CRM Automation
+API Integration
+AI Instruction
